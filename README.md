@@ -1,5 +1,5 @@
 # Mentor_grad_students
-This is a summary of what a newbie graduated student should learn
+This is a summary of what a newbie graduated student should learn about ML
 
 Please see the following [check list](https://drive.google.com/file/d/1irOpnt_s3qbsQo_rPBxMZFYILYPqoteO/view?usp=sharing) 
 
