@@ -15,7 +15,8 @@ Please see the following [check list](https://drive.google.com/file/d/1irOpnt_s3
 
 2. 前備知識(Prior Knowledge):<br />
 • 報告方法(how to make a research report or presentation)[link](https://drive.google.com/file/d/1bz1IbhurTBte6-Nqs6FOK-qrpbVor7_J/view?usp=sharing) <br />
-• YOLO Object detector <br />
+• Machine Learning concept:[李弘毅](http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)<br />
+• YOLO object detector <br />
 • [DeepSORT Tracker](https://github.com/nwojke/deep_sort) <br />
 • I3D and the [corresponding Paper](https://arxiv.org/abs/1705.07750) <br />
 
