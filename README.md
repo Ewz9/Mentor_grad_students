@@ -4,14 +4,15 @@ This is a summary of what a newbie graduated student should learn
 Please see the following [check list](https://drive.google.com/file/d/1irOpnt_s3qbsQo_rPBxMZFYILYPqoteO/view?usp=sharing) 
 
 1. 基礎程式和軟體能力(Programming skills): <br />
-• Python <br />
+• Python: try to improve yourself with [leetcode](https://leetcode.com/)<br />
 • Ubuntu and GPU <br />
 	• [Install NVidia GPU driver](https://drive.google.com/file/d/1tPwoYoZ6tnnOwVO62bZUmSNQRbMOh6hA/view?usp=sharing) <br />
 	• 安裝CUDA (install/re-install CUDA) <br />
-	• 檢查相應的版本配置(Check Version) <br />
+	• Pytorch or tensorflow	<br />
+	• 檢查相應的版本配置[Check Version](https://pytorch.org/get-started/previous-versions/) <br />
 • Github (https://barry7577.gitbook.io/github/) <br />
 • [Docker](https://drive.google.com/file/d/1cqgPpnE-_V9-YKj2dG7cw7FyxqX-ZvSV/view?usp=sharing) <br />
-• Anaconda <br />
+• [Anaconda](https://www.anaconda.com/download) or other virtual environment <br />
 
 2. 前備知識(Prior Knowledge):<br />
 • 報告方法(how to make a research report or presentation) [link](https://drive.google.com/file/d/1bz1IbhurTBte6-Nqs6FOK-qrpbVor7_J/view?usp=sharing) <br />
