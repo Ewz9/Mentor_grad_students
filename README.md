@@ -3,7 +3,7 @@ This is a summary of what a newbie graduated student should learn about ML
 
 Please see the following [check list](https://drive.google.com/file/d/1irOpnt_s3qbsQo_rPBxMZFYILYPqoteO/view?usp=sharing) 
 
-**1. 基礎程式和軟體能力(Programming skills): <br />**
+**1. 基礎程式和軟體能力(Programming skills):** <br />
 • Python: try to improve yourself with [leetcode](https://leetcode.com/)<br />
 • Ubuntu and GPU <br />
 	• [Install NVidia GPU driver](https://drive.google.com/file/d/1tPwoYoZ6tnnOwVO62bZUmSNQRbMOh6hA/view?usp=sharing) <br />
