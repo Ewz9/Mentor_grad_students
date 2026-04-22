@@ -12,7 +12,7 @@ Please see the following [check list](https://drive.google.com/file/d/1irOpnt_s3
 	• 檢查相應的版本配置[Check Version](https://pytorch.org/get-started/previous-versions/) <br />
 • Github (https://barry7577.gitbook.io/github/) <br />
 • [Docker](https://drive.google.com/file/d/1cqgPpnE-_V9-YKj2dG7cw7FyxqX-ZvSV/view?usp=sharing) <br />
-• [Anaconda](https://www.anaconda.com/download) or other virtual environment <br />
+• [Anaconda](https://www.anaconda.com/download) (**Anaconda只推薦用Ubuntu**) or other virtual environment <br />
 
 2. 前備知識(Prior Knowledge):<br />
 • 報告方法(how to make a research report or presentation) [link](https://drive.google.com/file/d/1bz1IbhurTBte6-Nqs6FOK-qrpbVor7_J/view?usp=sharing) <br />
